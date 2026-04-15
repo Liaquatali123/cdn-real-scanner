@@ -53,6 +53,8 @@ chmod +x scanner.py
 python scanner.py
 ```
 
+> No packages need to be installed — the tool uses Python's built-in standard library only.
+
 ---
 
 ## Example Usage
